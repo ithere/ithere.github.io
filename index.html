@@ -5,7 +5,9 @@
     <div id="time"></div>
   </body>
 <script>
-  var time = (new Date()).toLocaleString();
+  (function(){
+     var time = (new Date()).toLocaleString();
   document.getElementById("time").innerHTML = time
+   })();
 </script>
 </html>
