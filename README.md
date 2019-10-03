@@ -9,3 +9,4 @@
 ##### knowledgeData 作为知识类视频 涵盖各种历史,名人,普法等
 ##### 如果您对此项目感兴趣并愿意共同建设的话可以star/fork 支持一下 谢谢(您可以随时上传您收藏的有用的视频来分享给更多的人)
 ### 其他小程序目前暂无精力开发 后续会继续上传
+![mosousuo](https://github.com/ithere/douyindownload-miniapp/blob/master/qrcode_ms.jpg)
